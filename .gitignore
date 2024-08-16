@@ -1,0 +1,244 @@
+# Operating System files #
+##########################
+.DS_Store
+Thumbs.db
+
+# Node.js #
+############
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs #
+########
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+lerna-debug.log*
+pnpm-debug.log*
+yarn-error.log*
+npm-error.log*
+
+# Dependency directories #
+###########################
+/node_modules/
+/jspm_packages/
+
+# Production #
+##############
+/dist/
+/build/
+/out/
+/coverage/
+.env
+
+# Editor directories and files #
+################################
+.idea/
+/.vscode/
+/*.sublime-project
+/*.sublime-workspace
+*.swp
+*.swo
+*.bak
+
+# macOS #
+##########
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows #
+############
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python #
+###########
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.installed.cfg
+*.egg
+*.whl
+*.pyd
+.Python
+env/
+venv/
+ENV/
+venv.bak/
+.spyderproject
+.spyproject
+
+# Java #
+########
+*.class
+*.jar
+*.war
+*.ear
+*.swp
+*.swo
+*.bak
+
+# Maven #
+#########
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle #
+##########
+.gradle/
+build/
+
+# IntelliJ IDEA #
+#################
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+*.class
+
+# JetBrains #
+#############
+/.idea
+*.iml
+*.iws
+out/
+
+# Eclipse #
+###########
+.project
+.classpath
+.c9/
+.settings/
+
+# Visual Studio Code #
+######################
+.vscode/
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/cspell.json
+
+# Visual Studio #
+#################
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+
+# Xcode #
+##########
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.xcworkspace/
+!default.xcworkspace/
+.idea/
+*.DS_Store
+*.DS_Store?
+*.swp
+*~
+.local/
+*.orig
+*.hg
+*.git
+*.svn
+.build/
+*.pbxuser
+*.xcworkspace
+xcuserdata
+profile
+*.lock
+
+# Swift Package Manager #
+#########################
+.build/
+.Package.resolved
+
+# CocoaPods #
+#############
+Pods/
+Podfile.lock
+*.xcworkspace
+
+# Carthage #
+############
+Carthage/Build/
+
+# Fastlane #
+############
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/*.lock
+
+# React Native #
+################
+/node_modules/
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+/react-native/ios/build/
+/react-native/android/.gradle/
+/react-native/android/app/build/
+/expo/
+
+# Flutter #
+###########
+# Dart package
+.packages
+.pubble.yaml
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies.json
+/.packages
+/.dart_tool/
+.dart_tool/
+.flutter/
+.build/
+!pubspec.yaml
+!flutter.yaml
+!pubspec.lock
+# OSX
+**/DerivedData
+.idea/
+build/
+# Web
+**/.firebase/
+**/.env
+**/.env.local
+# Linux
+/bin
+/obj
+# Android
+*.iml
+.iml
+/externalNativeBuild/
+/intermediates/
+/output.json
+*.keystore
+/android/
